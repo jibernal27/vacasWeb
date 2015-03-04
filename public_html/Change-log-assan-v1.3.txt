@@ -1,0 +1,183 @@
+                                                                  WELCOME TO ASSAN
+                                                                    Version v1.3 
+
+
+
+
+
+
+**Version v1.0.1 on 17 jan 2015**
+
+ - Added 6 color styles (Blue, Green, Red, Yellow, Sea-green, Gold)
+ - Change the google font family with ubuntu
+ - Fixed some issues
+
+*Note-* we added 6 color styles files into the css folder of theme (not showing  into the demo link of theme),after purchase, unzip the assan folder and into this folder you find the 6 style css files, use only your favourite color css file.
+
+
+*Version v1.1 on Jan 27, 2015*
+
+ - Transparent header (NEW)
+ - One page Template (NEW)
+ - Logo centre header (NEW)
+ - Dark header (NEW)
+ - Footer option (NEW)
+ - Full width page (NEW)
+ - Full width wide page (NEW)
+ - Left sidebar page (NEW)
+ - Right sidebar page (NEW)
+ - Both left sidebar page (NEW)
+ - Both right sidebar page (NEW)
+ - maintenance page (NEW)
+ - Login register classic page (NEW)
+ - invoice page (NEW)
+ - Search results page (NEW)
+ - Process page (NEW)
+ - Gallery page (NEW)
+ - Side navigation page (NEW)
+ - Career page (NEW)
+ - Upgrade to bootstrap 3.3.2 (NEW)
+ - Change the font family
+ - Re design the some sections
+ - Change the dropdown menu color to dark
+ - Some changes in style css file
+
+
+*Version v1.2 on Jan 31, 2015*
+ 
+ - Added Revolution slider ($14)
+ - Added on hover Dropdown
+ - Added Login option in menu
+ - Added 4 new home pages with Slider revolution
+ - Changes the google fonts with Raleway and lato
+ - Some changes in css file
+
+*Version v1.2.1 on 4 feb, 2015*
+
+ - Added home boxed layout
+ - Added header gradient with 6 different colors
+ - Fixes some bugs in video home and css file
+ - Replace the google font with Ubuntu
+ - Change the portfolio and revolution slider background images 
+ - Change the dropdown menu color with white
+ - Remove hover dropdown
+
+*Note:*
+
+In version v1.2.1 included 6 headers with different gradient color styles (Not in preview demo)
+
+
+*Version v1.2.2 on 4 feb, 2015*
+
+ - change the screen shot.
+
+
+
+
+
+
+
+/*********************************************************************Version V1.3*********************************************************************************/
+
+
+
+
+
+   1- Added SHOP UI
+
+
+      Shop ui pages
+ 
+             - Shop home
+             - 2 columns sidebar
+             - 3 columns sidebar
+             - 4 columns full width
+             - Product list
+             - Single Product
+             - Shopping cart
+             - Checkout (with sky forms validation) 
+             - Login (With popup forget password)
+             - Register (Valid) 
+
+
+
+     2 -   Added sky forms pro ($10)
+
+
+ 
+     3- new contact pages  (all forms have captcha, working scipts and validation)
+
+
+        - Contact option
+        - Contact Advanced
+        - Contact flat
+
+     4- Added home events
+   
+     5 - Change the google fonts to vollkron and open sans
+
+     6-  remove page full with wide
+  
+     7-  Remove header gradient
+
+     8- Change the slider images, portfolio, blog parallax backgrounds.
+
+     9- Added email template
+
+     10 - Added Multi level dropdown menu  
+
+
+
+
+
+
+        Version v1.3.1 on 24 Feb 2014
+
+        - typography improved
+        - Minor bug fixes
+        - Redesign index page.
+        - Change all images 
+
+
+
+
+     /********************************************                       color skins                         **************************************/
+
+
+               Color skins
+
+                when you unzip the folder, in css folder you find the 6 different colors stylesheets like style-green, style-gold etc., Choose 1 css which color you
+
+                want to use like i want to use style-red.css color css ! ok - then delete other 5 style files, and use only style-red.css for your project.
+                  
+                (Hope you understand)
+
+ 
+
+
+       
+
+      Upcoming version v1.4
+
+        - Full Documentation  (until ask feel free question 24/7)
+        - and much more amazing features
+
+
+
+
+
+                                                         ASSAN v1.3. all right reserved, Theme by Design_mylife
+
+
+
+
+
+
+
+
+
+
+
+
+
+
