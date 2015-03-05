@@ -1,4 +1,4 @@
-                                                                  WELCOME TO ASSAN
+                                                                  WELCOME TO VACAS
                                                                     Version v1.3 
 
 
@@ -12,7 +12,7 @@
  - Change the google font family with ubuntu
  - Fixed some issues
 
-*Note-* we added 6 color styles files into the css folder of theme (not showing  into the demo link of theme),after purchase, unzip the assan folder and into this folder you find the 6 style css files, use only your favourite color css file.
+*Note-* we added 6 color styles files into the css folder of theme (not showing  into the demo link of theme),after purchase, unzip the VACAS folder and into this folder you find the 6 style css files, use only your favourite color css file.
 
 
 *Version v1.1 on Jan 27, 2015*
@@ -166,7 +166,7 @@ In version v1.2.1 included 6 headers with different gradient color styles (Not i
 
 
 
-                                                         ASSAN v1.3. all right reserved, Theme by Design_mylife
+                                                         VACAS v1.3. all right reserved, Theme by Design_mylife
 
 
 

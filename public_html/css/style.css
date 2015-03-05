@@ -1,7 +1,7 @@
 /* 
-    Document   : assan
+    Document   : VACAS
     Author     : Design_mylife
-    Description:assan multi-page for Multipurpose use
+    Description:VACAS multi-page for Multipurpose use
     Version    : V1.3.1
 */
 
@@ -3153,7 +3153,7 @@ MULTI LEVEL DROPDOWN CSS
 
 /***************************************************************************************
 
-ASSAN SHOP CSS STARTS FROM BELOW
+VACAS SHOP CSS STARTS FROM BELOW
 
 ****************************************************************************************/
 
@@ -3819,15 +3819,15 @@ line-height: 40px;
 
 
 /***theme features box***/
-.assan-box{
+.VACAS-box{
     margin-bottom: 30px;
 }
-.assan-box img{
+.VACAS-box img{
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
-.assan-box h4{
+.VACAS-box h4{
     padding: 0px 15px;
     text-transform: capitalize;
     font-weight: 400;
@@ -3835,7 +3835,7 @@ line-height: 40px;
     margin:0px;
     line-height: 55px;
 }
-.assan-box p{
+.VACAS-box p{
     padding: 0px 20px;
 
 }

@@ -24,7 +24,7 @@ $_SESSION['captcha_id'] = $str;
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>assan - Professional theme</title>
+        <title>VACAS - Professional theme</title>
 
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -100,7 +100,7 @@ $_SESSION['captcha_id'] = $str;
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="ASSAN"></a>
+                    <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="VACAS"></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -428,7 +428,7 @@ $_SESSION['captcha_id'] = $str;
                 <div class="row">
                     <div class="col-md-3 col-sm-6 margin30">
                         <div class="footer-col">
-                            <h3>About assan</h3>
+                            <h3>About VACAS</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.
                             </p>
@@ -450,7 +450,7 @@ $_SESSION['captcha_id'] = $str;
                                 <li><p><strong><i class="fa fa-envelope"></i> Mail Us:</strong> <a href="#">Support@designmylife.com</a></p></li>
                                 <li> <p><strong><i class="fa fa-phone"></i> Phone:</strong> +91 1800 2345 2132</p></li>
                                 <li> <p><strong><i class="fa fa-print"></i> Fax</strong> 1800 2345 2132</p></li>
-                                <li> <p><strong><i class="fa fa-skype"></i> Skype</strong> assan.856</p></li>
+                                <li> <p><strong><i class="fa fa-skype"></i> Skype</strong> VACAS.856</p></li>
 
                             </ul>
                         </div>                        
@@ -552,7 +552,7 @@ $_SESSION['captcha_id'] = $str;
                 };
                 map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
-                var contentString = '<p style="line-height: 20px;"><strong>assan Template</strong></p><p>Vailshali, assan City, 302012</p>';
+                var contentString = '<p style="line-height: 20px;"><strong>VACAS Template</strong></p><p>Vailshali, VACAS City, 302012</p>';
 
                 var infowindow = new google.maps.InfoWindow({
                     content: contentString
